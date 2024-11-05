@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ejipauna.github.io/JxY/sitemap_index.txt
+Sitemap: https://ejipauna.github.io/VUW/sitemap_index.txt
+Sitemap: https://ejipauna.github.io/ZFy/sitemap_index.txt
+Sitemap: https://ejipauna.github.io/lAG/sitemap_index.txt
